@@ -1,0 +1,12 @@
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\ConsoleApp1.exe
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\Newtonsoft.Json.Bson.dll
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\Newtonsoft.Json.dll
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\Newtonsoft.Json.xml
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\Newtonsoft.Json.Bson.pdb
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\bin\Release\Newtonsoft.Json.Bson.xml
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CopyComplete
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\obj\Release\ConsoleApp1.exe
+D:\spiral\SPIRAL NEW\Marico\WebAppv2\ConsoleApp1\obj\Release\ConsoleApp1.pdb

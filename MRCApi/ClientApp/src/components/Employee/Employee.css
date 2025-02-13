@@ -1,0 +1,25 @@
+
+#fromDateEmployee > div {
+    /* top:-200px !important; */
+    width: 300px  !important;
+}
+
+#toDateEmployee > div {
+    /* top:-200px !important; */
+    width: 300px  !important;
+}
+
+#actualDateEmployee > div {
+    /* top:-200px !important; */
+    width: 300px  !important;
+}
+
+#fromDatePermission > div {
+    bottom:60px !important;
+    width: 300px  !important;
+}
+
+#toDatePermission > div {
+    bottom:60px !important;
+    width: 300px  !important;
+}

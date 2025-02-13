@@ -1,0 +1,15 @@
+D:\Desktop\WebAppv2\SpiralData\bin\Debug\net7.0\SpiralData.deps.json
+D:\Desktop\WebAppv2\SpiralData\bin\Debug\net7.0\SpiralData.dll
+D:\Desktop\WebAppv2\SpiralData\bin\Debug\net7.0\SpiralData.pdb
+D:\Desktop\WebAppv2\SpiralData\bin\Debug\net7.0\SpiralEntity.dll
+D:\Desktop\WebAppv2\SpiralData\bin\Debug\net7.0\SpiralEntity.pdb
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.csproj.AssemblyReference.cache
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.AssemblyInfoInputs.cache
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.AssemblyInfo.cs
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.csproj.CoreCompileInputs.cache
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.csproj.Up2Date
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.dll
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\refint\SpiralData.dll
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\SpiralData.pdb
+D:\Desktop\WebAppv2\SpiralData\obj\Debug\net7.0\ref\SpiralData.dll

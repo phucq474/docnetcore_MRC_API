@@ -1,0 +1,187 @@
+﻿html {
+  font-size: 14px;
+}
+
+/* @media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+} */
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+}
+
+/*body .p-tabview .p-tabview-panels {
+  background-color: #dedede;
+}*/
+
+.p-inputnumber-input {
+  width: 100%;
+}
+
+.file_upload_gallery .p-button:hover {
+  background-color: lightblue !important;
+}
+
+.insert_gallery:hover {
+  background-color: #0033ff !important;
+  color: black !important;
+}
+
+.insert_gallery:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover) !important;
+  transform: translateY(-0.25em) !important;
+}
+
+.gallery_insert {
+  background-image: url("https://cdn2.iconfinder.com/data/icons/multimedia-5-4/48/239-512.png");
+  background-size: 100px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.update_gallery:hover {
+  background-color: #ff9900 !important;
+  color: black !important;
+}
+
+.update_gallery:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover) !important;
+  transform: translateY(-0.25em) !important;
+}
+
+.delete_gallery:hover {
+  background-color: #cc3300 !important;
+  color: black !important;
+}
+
+.delete_gallery:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover) !important;
+  transform: translateY(-0.25em) !important;
+}
+
+.view_gallery:hover {
+  background-color: #00cc00 !important;
+  color: black !important;
+}
+
+.image-gallery-slide {
+  height: 350px !important;
+  text-align: center !important;
+  width: 100% !important;
+}
+
+.image-gallery-slide img {
+  height: 350px !important;
+  text-align: center !important;
+  width: auto !important;
+}
+
+.image-gallery-thumbnails {
+  text-align: center !important;
+  height: 100px;
+}
+
+.image-gallery-thumbnails img {
+  height: 95%;
+  min-height: 150px;
+}
+
+.p-inputnumber-input {
+  width: 100%;
+}
+
+.p-inputtext {
+  width: 100%;
+}
+
+/* .p-overlaypanel-enter-done {
+  top: 135px !important;
+} */
+
+/* .p-dropdown-item {
+  white-space: normal !important;
+}
+
+.p-autocomplete-item {
+  white-space: normal !important;
+} */
+
+.tui-image-editor-header {
+  display: none;
+}
+
+.row-no-photo {
+  background-color: brown !important;
+}
+
+.lightbox-verify-sellout {
+  width: 75% !important;
+  z-index: 10000;
+}
+
+.btn-lefmenu {
+  display: none !important;
+}
+
+@media only screen and (max-width: 1024px) {
+  .btn-lefmenu {
+    display: flex !important;
+    justify-content: space-between !important;
+  }
+
+  .btn-topmenu {
+    display: none !important;
+  }
+}
+
+.message_template {
+  display: none;
+}
+
+.p-dropdown-filter-container {
+  width: 100%;
+}
+
+.layout-wrapper {
+  min-height: 100%;
+}
+
+.p-dropdown-item {
+  white-space: normal !important;
+}
+
+.p-autocomplete-item {
+  white-space: normal !important;
+}
+
+/* .p-dialog-content {
+  overflow: unset !important;
+} */
+#working-plan-dialog>div.p-dialog-content {
+  overflow: auto !important;
+}
+
+.row-group-level1 {
+  background-color: #71DFE7 !important;
+  color: #000 !important;
+  font-weight: 700;
+}
+
+.row-group-level2 {
+  background-color: #6ECB63 !important;
+  color: #000 !important;
+  font-weight: 700;
+}
+
+.row-group-level3 {
+  background-color: #002366 !important;
+  color: #f1f1f1 !important;
+  font-weight: 700;
+}
+
+.row-group-level4 {
+  background-color: #efe0a7 !important;
+  color: #000 !important;
+}

@@ -1,0 +1,12 @@
+D:\Desktop\WebAppv2\SpiralEntity\bin\Debug\net7.0\SpiralEntity.deps.json
+D:\Desktop\WebAppv2\SpiralEntity\bin\Debug\net7.0\SpiralEntity.dll
+D:\Desktop\WebAppv2\SpiralEntity\bin\Debug\net7.0\SpiralEntity.pdb
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.csproj.AssemblyReference.cache
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.AssemblyInfoInputs.cache
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.AssemblyInfo.cs
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.csproj.CoreCompileInputs.cache
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.dll
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\refint\SpiralEntity.dll
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\SpiralEntity.pdb
+D:\Desktop\WebAppv2\SpiralEntity\obj\Debug\net7.0\ref\SpiralEntity.dll

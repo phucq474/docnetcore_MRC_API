@@ -1,0 +1,371 @@
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\VNMApi.exe
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\bootstrap.min.css
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_175427.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_175603.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_180444.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_180511.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_180528.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Danh sách nhân viên MT_1_01062021_180723.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\EmployeeShop\StorePermission_20210320175302.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Export_Notify_1_18032021_141319.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Export_Notify_1_18032021_143703.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_110336.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_110433.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_110904.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_111644.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_111733.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_112418.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_124104.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Ket qua khao sat _21062021_124343.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\OSAResult_19042021_183209.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_152211.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_185431.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_193038.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_193203.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_193430.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_193834.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_195120.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_195723.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_195923.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_200115.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_200249.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_200446.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_200626.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_201856.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_205620.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Products_List_20210413_205924.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\SpiralForm_RawData_1_07082021_114707.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\SpiralForm_RawData_1_07082021_115219.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\SpiralForm_RawData_1_21062021_140248.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\SpiralForm_RawData_1_21062021_140403.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\SpiralForm_RawData_1_21062021_140934.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Template_ImportEmployee_20210729_100111.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Template_ImportEmployee_20210729_100133.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Template_ImportEmployee_20210729_100236.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Template_Shops_20210320_152713.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\1\Template_Shops_20210320_165931.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Bao Cao Ghe Tham (ALPHA)_20210517_183134.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo chấm công_20210513_172825.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210422_120119.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_175035.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_175727.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_181046.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_182733.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_184349.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210515_184903.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Attendant\Báo cáo daily_20210519_145528.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218155825.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218160042.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218160617.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218160849.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218161206.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\EmployeeList_20210218161502.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\Khảo sát nơi ở hiện tại_20210718_181011.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\Employee\Khảo sát nơi ở hiện tại_20210718_181121.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20200413120817.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20200413122618.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20200413122850.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20200413153303.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218140311.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218140629.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218141211.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218141302.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218141311.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218141428.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218141524.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218145636.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218145731.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201218145844.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\EmployeeList_20201230100221.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012223633.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012223713.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012223719.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012224050.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012224204.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012224750.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012224858.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012231716.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201012231942.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201013163902.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201013164117.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20201014140636.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20210219094933.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\ExportFile\StorePermission_20210219095035.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OOLTarget\OOLTarget_20210414_173846.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OOLTarget\OOLTarget_20210415_210041.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OOLTarget\OOLTarget_20210415_210547.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OOLTarget\OOLTarget_20210415_210855.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OSA\Danh sách Đăng ký SKU OSA _20210514_093210.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OSA\Danh sách Đăng ký SKU OSA _20210514_093310.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OSA\Danh sách Đăng ký SKU OSA _20210514_093515.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\OSA\OSAResult_19042021_183633.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210422_182724.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210428_094631.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210428_225119.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210428_225515.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210428_225525.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210429_095742.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210429_100016.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutAlpha\SellOutAlpha_Template_20210519_103511.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_112540.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_112652.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_112753.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_113023.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_113635.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_114041.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 5-2021_20210611_142213.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Doanh số PG kênh ST_Tháng 6-2021_20210611_114035.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Template_Doanh số PG kênh siêu thị_20210602_143330.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Template_Doanh số PG kênh siêu thị_20210602_143603.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Template_Doanh số PG kênh siêu thị_20210630_115455.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Template_Doanh số PG kênh siêu thị_20210630_115903.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\SellOutMT\Template_Doanh số PG kênh siêu thị_20210630_120145.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\StockOut\Báo cáo Tồn kho_20210420_104707.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\template_displays.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmpEmployeePermission.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Alpha_Bao cao gia.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Attendant_Rawdata.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Attendant_Visit (ALPHA).xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Attendant_Visit (MT).xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Attendant_Visit.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_bao cao cham cong (ALPHA) - 20210622.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_bao cao cham cong (ALPHA).xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_bao cao cham cong (MT) - 20210622.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_bao cao cham cong (MT).xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_bao cao cham cong.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Customers.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_EmployeeAnnualLeave.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_EmployeeReview.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ExportDisplayAlpha.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ExportEmployeeMT.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ExportMTSellOut.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ExportSpiralForm_RawData.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_languageResources.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_LichLamViec_PGM.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Notify_Export.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_OSAPermission.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_OSATarget.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_OSATargetActiveSKU.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_ProductPrice.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_PromotionList.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_PromotionResult_Rawdata.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_QC_Rawdata.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_SellOutAlpha.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_SellOutMT.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_SellOutMT1.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_SOSTarget.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_StockoutTarget.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_StockOut_Rawdata.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_ProductCategory.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_Products.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_ShiftList.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_Shops.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_Suppliers.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_Template_WorkingPlan_Default.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_WorkingPlan_Default.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_WorkingPlan_LLV.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\tmp_WorkingResultSOS_Rawdata.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\export\template_VNM\V2_VNM_DailyRecord.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\logo_spiral.png
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\no_in.png
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\images\no_photo.jpg
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\index.html
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\bootstrap.min.css
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\bootstrap.min.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\jquery-3.2.1.min.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\jquery-3.2.1.slim.min.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\live.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\js\popper.min.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\signalr\dist\browser\signalr.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\signalr\dist\browser\signalr.min.js
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\messager.html
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploaded\20210820\1_copy_88954911-d76a-418c-b275-6cba94553465.JPEG
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317023955fileUpload
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317024030fileUpload
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317024341fileUpload
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317024722tmp_ImportEmployee.xlsx.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317024934_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317025608_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317030545_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317031032_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210317031420_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210320021753_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210320021927_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\import\400000\20210320022019_tmp_ImportEmployee.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\SellOutMT\ImportSellOutMT20210602_163435.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\SellOutMT\ImportSellOutMT20210602_163656.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\SellOutMT\ImportSellOutMT20210602_163717.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\SellOutMT\ImportSellOutMT20210602_163731.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Upload\SellOutMT\ImportSellOutMT20210630_120418.xlsx
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ClientApp\package-lock.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ClientApp\package.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ClientApp\public\manifest.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ClientApp\src\asset\filedata\dvhcvn.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\libman.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\VNMApi.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\VNMApi.deps.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\VNMApi.runtimeconfig.json
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\VNMApi.pdb
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Common.Logging.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Common.Logging.Core.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\DocumentFormat.OpenXml.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\EPPlus.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.barcodes.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.forms.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.io.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.kernel.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.layout.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.pdfa.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.sign.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.styledxmlparser.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.svg.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itext.html2pdf.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itextsharp.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\itextsharp.xmlworker.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Authorization.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Metadata.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.NodeServices.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.SpaServices.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.HashCode.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Data.SqlClient.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Json.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Configuration.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Console.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Identity.Client.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\NuGet.Frameworks.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\BouncyCastle.Crypto.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Spire.License.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\Spire.Pdf.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Collections.Immutable.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.AttributedModel.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Convention.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Hosting.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Runtime.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.TypedParts.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.IO.Packaging.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.Caching.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Text.Encoding.CodePages.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\System.Xml.XPath.XmlDocument.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralData.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralEntity.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralService.dll
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralData.pdb
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralEntity.pdb
+D:\Working\MRC\VNMApi\obj\Release\netcoreapp3.1\PubTmp\Out\SpiralService.pdb

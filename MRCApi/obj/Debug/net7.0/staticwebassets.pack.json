@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\SellOutMT\\ImportSellOutMT20210602_163435.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\SellOutMT\\ImportSellOutMT20210602_163435.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\SellOutMT\\ImportSellOutMT20210602_163656.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\SellOutMT\\ImportSellOutMT20210602_163656.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\SellOutMT\\ImportSellOutMT20210602_163717.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\SellOutMT\\ImportSellOutMT20210602_163717.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\SellOutMT\\ImportSellOutMT20210602_163731.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\SellOutMT\\ImportSellOutMT20210602_163731.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\SellOutMT\\ImportSellOutMT20210630_120418.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\SellOutMT\\ImportSellOutMT20210630_120418.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317023955fileUpload",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317024030fileUpload",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317024341fileUpload",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317024722tmp_ImportEmployee.xlsx.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317024722tmp_ImportEmployee.xlsx.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317024934_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317024934_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317025608_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317025608_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317030545_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317030545_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317031032_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317031032_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210317031420_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210317031420_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210320021753_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210320021753_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210320021927_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210320021927_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\Upload\\import\\400000\\20210320022019_tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\Upload\\import\\400000\\20210320022019_tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_112138.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_112138.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_112849.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_112849.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_113352.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_113352.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_113743.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_113743.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_114113.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_114113.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_164125.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_164125.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Export_20241211_164240.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Export_20241211_164240.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Teamplate_20241210_164657.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Teamplate_20241210_164657.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_112514.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_112514.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_162830.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_162830.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_163358.xlsx",
+      "PackagePath": "staticwebassets\\export\\OOLTarget\\OOLTarget_Teamplate_20241213_163358.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\Product\\Danh sách Giá sản phẩm _20241213_093336.xlsx",
+      "PackagePath": "staticwebassets\\export\\Product\\Danh sách Giá sản phẩm _20241213_093336.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\notify_template.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\notify_template.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_Competitor_RawData.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_Competitor_RawData.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_CustomerTarget.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_CustomerTarget.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_EmployeeCategory.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_EmployeeCategory.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_ExportSpiralForm_RawData.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_ExportSpiralForm_RawData.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_ExportSpiralForm_RowData.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_ExportSpiralForm_RowData.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_SOSList.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_SOSList.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_SellIn.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_SellIn.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_WorkingPlan.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_WorkingPlan.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\TemplateExcel\\tmp_WorkingPlan_SS.xlsx",
+      "PackagePath": "staticwebassets\\export\\TemplateExcel\\tmp_WorkingPlan_SS.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Employee_POG_Result.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Employee_POG_Result.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_ProductPrice.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_ProductPrice.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_Incentive.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_Incentive.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_New_Customer.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_New_Customer.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_OOS.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_OOS.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_OSA.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_OSA.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_PLANOGRAM.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_PLANOGRAM.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_SALES.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_SALES.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Report_Store_Cover.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Report_Store_Cover.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_SellInByEmployee.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_SellInByEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Shop_By_Customer.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Shop_By_Customer.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_FTR\\tmp_Target_Cover.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_FTR\\tmp_Target_Cover.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_IMV\\tmp_SellIn.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_IMV\\tmp_SellIn.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_Promotion.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_Promotion.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_Report Display Contest.pptx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_Report Display Contest.pptx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_Working History.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_Working History.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_export_report_attendant.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_export_report_attendant.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_export_report_osa.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_export_report_osa.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_MRC\\tmp_survey_new_employee.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_MRC\\tmp_survey_new_employee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\template_displays.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\template_displays.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmpEmployeePermission.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmpEmployeePermission.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Alpha_Bao cao gia.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Alpha_Bao cao gia.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Attendant_Rawdata.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Attendant_Rawdata.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Attendant_Visit.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Attendant_Visit.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Customers.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Customers.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_EmployeeAnnualLeave.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_EmployeeAnnualLeave.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_EmployeeAnnualLeave_Fonterra.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_EmployeeAnnualLeave_Fonterra.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_EmployeeReview.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_EmployeeReview.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ExportDisplayAlpha.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ExportDisplayAlpha.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ExportEmployeeMT.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ExportEmployeeMT.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ExportEmployee_MRC.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ExportEmployee_MRC.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ExportEmployee_V2.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ExportEmployee_V2.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ExportSpiralForm_RawData.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ExportSpiralForm_RawData.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ImportEmployee.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ImportEmployee.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ImportEmployee_FTR.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ImportEmployee_FTR.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_LichLamViec_PGM.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_LichLamViec_PGM.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_NewCustomer.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_NewCustomer.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Notify_Export.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Notify_Export.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_OSAPermission.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_OSAPermission.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_OSATarget.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_OSATarget.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ProductPrice.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ProductPrice.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_ProductPrice_FTR.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_ProductPrice_FTR.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_PromotionList.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_PromotionList.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_PromotionList_V2.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_PromotionList_V2.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_PromotionResult_Rawdata.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_PromotionResult_Rawdata.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_QC_Rawdata.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_QC_Rawdata.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_SOSTarget.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_SOSTarget.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_StockOut_Rawdata.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_StockOut_Rawdata.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_StockoutTarget.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_StockoutTarget.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_ProductCategory.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_ProductCategory.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_Products.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_Products.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_ShiftList.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_ShiftList.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_Shops.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_Shops.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_Shops_MRC.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_Shops_MRC.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_Suppliers.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_Suppliers.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_Template_WorkingPlan_Default.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_Template_WorkingPlan_Default.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_WorkingPlan_Default.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_WorkingPlan_Default.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_WorkingPlan_LLV.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_WorkingPlan_LLV.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_WorkingResultSOS_Rawdata.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_WorkingResultSOS_Rawdata.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_bao cao cham cong.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_bao cao cham cong.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\export\\template_VNM\\tmp_languageResources.xlsx",
+      "PackagePath": "staticwebassets\\export\\template_VNM\\tmp_languageResources.xlsx"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\images\\logo_spiral.png",
+      "PackagePath": "staticwebassets\\images\\logo_spiral.png"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\images\\marico_logo.png",
+      "PackagePath": "staticwebassets\\images\\marico_logo.png"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\images\\no_in.png",
+      "PackagePath": "staticwebassets\\images\\no_in.png"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\images\\no_photo.jpg",
+      "PackagePath": "staticwebassets\\images\\no_photo.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\live.js",
+      "PackagePath": "staticwebassets\\js\\live.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\lib\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\messager.html",
+      "PackagePath": "staticwebassets\\messager.html"
+    },
+    {
+      "Id": "D:\\Desktop\\WebAppv2\\MRCApi\\wwwroot\\uploaded\\20210820\\1_copy_88954911-d76a-418c-b275-6cba94553465.JPEG",
+      "PackagePath": "staticwebassets\\uploaded\\20210820\\1_copy_88954911-d76a-418c-b275-6cba94553465.JPEG"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MRCApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MRCApi.props",
+      "PackagePath": "build\\MRCApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MRCApi.props",
+      "PackagePath": "buildMultiTargeting\\MRCApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MRCApi.props",
+      "PackagePath": "buildTransitive\\MRCApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

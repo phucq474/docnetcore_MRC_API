@@ -1,0 +1,82 @@
+.layout-wrapper {
+    min-height: 100%;
+}
+
+.layout-config {
+    position: fixed;
+    padding: 0;
+    top: 0;
+    right: 0;
+    display: block;
+    width: 550px;
+    z-index: 998;
+    height: 100%;
+    transition: transform .4s cubic-bezier(.05, .74, .2, .99);
+    transform: translateX(100%);
+    backface-visibility: hidden;
+}
+
+.layout-config-content-wrapper {
+    position: relative;
+    height: 100%;
+    padding: 0;
+    -webkit-box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .24);
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .24);
+}
+
+.layout-config-button {
+    display: block;
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    line-height: 52px;
+    background-color: #fe8702;
+    text-align: center;
+    color: #fff;
+    top: 50%;
+    left: -51px;
+    z-index: -1;
+    overflow: hidden;
+    cursor: pointer;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    -webkit-transition: background-color .2s, -webkit-box-shadow .2s;
+    transition: background-color .2s, -webkit-box-shadow .2s;
+    transition: background-color .2s, box-shadow .2s;
+    transition: background-color .2s, box-shadow .2s, -webkit-box-shadow .2s;
+    -webkit-box-shadow: 0 7px 8px -4px rgba(0, 0, 0, .2), 0 5px 22px 4px rgba(0, 0, 0, .12), 0 12px 17px 2px rgba(0, 0, 0, .14);
+    box-shadow: 0 7px 8px -4px rgba(0, 0, 0, .2), 0 5px 22px 4px rgba(0, 0, 0, .12), 0 12px 17px 2px rgba(0, 0, 0, .14);
+}
+
+.layout-config-content {
+    overflow: auto;
+    height: 100%;
+}
+
+.layout-config-close {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    line-height: 25px;
+    text-align: center;
+    right: 20px;
+    top: 20px;
+    z-index: 999;
+    background-color: #20272b;
+    border-radius: 50%;
+    -webkit-transition: background-color .2s, -webkit-box-shadow .2s;
+    transition: background-color .2s, -webkit-box-shadow .2s;
+    transition: background-color .2s, box-shadow .2s;
+    transition: background-color .2s, box-shadow .2s, -webkit-box-shadow .2s;
+}
+
+.layout-config-active .layout-config {
+    width: 20%;
+    transform: translate3d(0, 0, 0);
+}
+
+@media only screen and (max-width: 1024px) {
+    .layout-config-active .layout-config {
+        width: 100%;
+    }
+}
